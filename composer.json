@@ -1,0 +1,4 @@
+{
+    "name": "burnbright/ssenvexport",
+    "bin": ["ssenvexport"]
+}
