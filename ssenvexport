@@ -6,7 +6,7 @@
  */
 
 if (count($argv) < 2) {
-	die("No _ss_environment.php file specified");
+	die("No _ss_environment.php file specified\n");
 }
 
 $file = $argv[1];
